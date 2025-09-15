@@ -1,22 +1,22 @@
 reto 1 string.Concat(): Bitín Explorador
 
-Reto 2 string.Join(): En el vasto universo vivía Bitín, un pequeño Explorador digital | 
-Su misión era descubrir ciudades luminosas ocultas entre la nubes de datos | 
-En su camino encontró un gran firewall que parecía imposible de cruzar | 
-Pero Bitín explorador sabía que el mundo binario estaba lleno de secretos | 
-Al final, todo serían ceros y unos
+Reto 2 string.Join(): En el vasto universo del mundo binario, donde solo existían ceros y unos, se levantaban ciudades luminosas construidas con bits que danzaban en perfecta armonía |  Cada calle estaba formada por largas cadenas de código que brillaban como estrellas digitales, y los habitantes, pequeños algoritmos curiosos, recorrían los circuitos buscando dar sentido a sus vidas |  Allí, todo lo que existía estaba gobernado por el flujo de información: la corriente eléctrica que encendía el mundo y el silencio que lo apagaba |  En una de esas ciudades habitaba Bitín, un joven programa que soñaba con explorar más allá de los límites de su servidor |  
 
-reto 3 String.format el cuento tiene 327 caracteres y 53 palabras
+Mientras otros se conformaban con repetir operaciones matemáticas, él deseaba descubrir qué había al otro lado del gran firewall, esa muralla invisible que protegía al mundo binario de amenazas externas |  Su curiosidad lo llevó a descifrar viejos fragmentos de código olvidados, que hablaban de un lugar mítico llamado “la Nube”, donde los ceros y unos podían transformarse en ideas infinitas |  Un día, armado de valor y con un puñado de claves encriptadas que había encontrado, Bitín atravesó la barrera | 
+
+ Del otro lado descubrió paisajes jamás imaginados: ríos de datos en constante movimiento, mares de información sin límites y criaturas hechas de algoritmos que nunca había visto |  Comprendió entonces que el mundo binario era solo una pequeña parte de algo mucho más grande: un universo digital sin fin, en el que su misión sería guiar a otros programas hacia la libertad de explorar y evolucionar más allá de los confines de los ceros y unos
+
+reto 3 String.format el cuento tiene 1585 caracteres y 255 palabras
 
 Reto 4 Interpolación: El protagonista es Bitín y busca una meta misteriosa
 
-Reto 5 Convert.ToString(): 327
+Reto 5 Convert.ToString(): 1585
 
-Reto 6 IndexOf('mundo'): 251
+Reto 6 IndexOf('mundo'): 25
 
-Reto 7 LastIndexOf('ceros'): 314
+Reto 7 LastIndexOf('ceros'): 1572
 
-Reto 8 Contains('Nube'): No
+Reto 8 Contains('Nube'): Sí
 
 Reto 9 StartsWith('En el vasto universo'): Sí
 
@@ -24,23 +24,23 @@ Reto 10 EndsWith('ceros y unos.'): Sí
 
 Reto 11 Substring('ciudades luminosas'): ciudades luminosas
 
-Reto 12 Remove(0, 15): verso vivía Bitín, un pequeño Explorador digital.
-Su misión era descubrir ciudades luminosas ocultas entre la nubes de datos.
-En su camino encontró un gran firewall que parecía imposible de cruzar.
-Pero Bitín explorador sabía que el mundo binario estaba lleno de secretos.
-Al final, todo serían ceros y unos.
+Reto 12 Remove(0, 15): verso del mundo binario, donde solo existían ceros y unos, se levantaban ciudades luminosas construidas con bits que danzaban en perfecta armonía. Cada calle estaba formada por largas cadenas de código que brillaban como estrellas digitales, y los habitantes, pequeños algoritmos curiosos, recorrían los circuitos buscando dar sentido a sus vidas. Allí, todo lo que existía estaba gobernado por el flujo de información: la corriente eléctrica que encendía el mundo y el silencio que lo apagaba. En una de esas ciudades habitaba Bitín, un joven programa que soñaba con explorar más allá de los límites de su servidor. 
 
-Reto 13 Replace('Bitín'->'ProgramaX'): En el vasto universo vivía ProgramaX, un pequeño Explorador digital.
-Su misión era descubrir ciudades luminosas ocultas entre la nubes de datos.
-En su camino encontró un gran firewall que parecía imposible de cruzar.
-Pero ProgramaX explorador sabía que el mundo binario estaba lleno de secretos.
-Al final, todo serían ceros y unos.
+Mientras otros se conformaban con repetir operaciones matemáticas, él deseaba descubrir qué había al otro lado del gran firewall, esa muralla invisible que protegía al mundo binario de amenazas externas. Su curiosidad lo llevó a descifrar viejos fragmentos de código olvidados, que hablaban de un lugar mítico llamado “la Nube”, donde los ceros y unos podían transformarse en ideas infinitas. Un día, armado de valor y con un puñado de claves encriptadas que había encontrado, Bitín atravesó la barrera.
 
-Reto 14 Insert() después de 'firewall': En el vasto universo vivía Bitín, un pequeño Explorador digital.
-Su misión era descubrir ciudades luminosas ocultas entre la nubes de datos.
-En su camino encontró un gran firewall (IMPORTANTE) que parecía imposible de cruzar.
-Pero Bitín explorador sabía que el mundo binario estaba lleno de secretos.
-Al final, todo serían ceros y unos.
+ Del otro lado descubrió paisajes jamás imaginados: ríos de datos en constante movimiento, mares de información sin límites y criaturas hechas de algoritmos que nunca había visto. Comprendió entonces que el mundo binario era solo una pequeña parte de algo mucho más grande: un universo digital sin fin, en el que su misión sería guiar a otros programas hacia la libertad de explorar y evolucionar más allá de los confines de los ceros y unos.
+
+Reto 13 Replace('Bitín'->'ProgramaX'): En el vasto universo del mundo binario, donde solo existían ceros y unos, se levantaban ciudades luminosas construidas con bits que danzaban en perfecta armonía. Cada calle estaba formada por largas cadenas de código que brillaban como estrellas digitales, y los habitantes, pequeños algoritmos curiosos, recorrían los circuitos buscando dar sentido a sus vidas. Allí, todo lo que existía estaba gobernado por el flujo de información: la corriente eléctrica que encendía el mundo y el silencio que lo apagaba. En una de esas ciudades habitaba ProgramaX, un joven programa que soñaba con explorar más allá de los límites de su servidor. 
+
+Mientras otros se conformaban con repetir operaciones matemáticas, él deseaba descubrir qué había al otro lado del gran firewall, esa muralla invisible que protegía al mundo binario de amenazas externas. Su curiosidad lo llevó a descifrar viejos fragmentos de código olvidados, que hablaban de un lugar mítico llamado “la Nube”, donde los ceros y unos podían transformarse en ideas infinitas. Un día, armado de valor y con un puñado de claves encriptadas que había encontrado, ProgramaX atravesó la barrera.
+
+ Del otro lado descubrió paisajes jamás imaginados: ríos de datos en constante movimiento, mares de información sin límites y criaturas hechas de algoritmos que nunca había visto. Comprendió entonces que el mundo binario era solo una pequeña parte de algo mucho más grande: un universo digital sin fin, en el que su misión sería guiar a otros programas hacia la libertad de explorar y evolucionar más allá de los confines de los ceros y unos.
+
+Reto 14 Insert() después de 'firewall': En el vasto universo del mundo binario, donde solo existían ceros y unos, se levantaban ciudades luminosas construidas con bits que danzaban en perfecta armonía. Cada calle estaba formada por largas cadenas de código que brillaban como estrellas digitales, y los habitantes, pequeños algoritmos curiosos, recorrían los circuitos buscando dar sentido a sus vidas. Allí, todo lo que existía estaba gobernado por el flujo de información: la corriente eléctrica que encendía el mundo y el silencio que lo apagaba. En una de esas ciudades habitaba Bitín, un joven programa que soñaba con explorar más allá de los límites de su servidor. 
+
+Mientras otros se conformaban con repetir operaciones matemáticas, él deseaba descubrir qué había al otro lado del gran firewall (IMPORTANTE), esa muralla invisible que protegía al mundo binario de amenazas externas. Su curiosidad lo llevó a descifrar viejos fragmentos de código olvidados, que hablaban de un lugar mítico llamado “la Nube”, donde los ceros y unos podían transformarse en ideas infinitas. Un día, armado de valor y con un puñado de claves encriptadas que había encontrado, Bitín atravesó la barrera.
+
+ Del otro lado descubrió paisajes jamás imaginados: ríos de datos en constante movimiento, mares de información sin límites y criaturas hechas de algoritmos que nunca había visto. Comprendió entonces que el mundo binario era solo una pequeña parte de algo mucho más grande: un universo digital sin fin, en el que su misión sería guiar a otros programas hacia la libertad de explorar y evolucionar más allá de los confines de los ceros y unos.
 
 Reto 15 PadLeft(10, '+'): +++++Bitín
 
@@ -52,29 +52,29 @@ Reto 18 TrimStart(): 'Mundo binario'
 
 Reto 19 TrimEnd(): 'Bitín explorador'
 
-Reto 20 Split() (primeras 10 palabras): En, el, vasto, universo, vivía, Bitín,, un, pequeño, Explorador, digital.
+Reto 20 Split() (primeras 10 palabras): En, el, vasto, universo, del, mundo, binario,, donde, solo, existían
 
 Reto 21 Equals('Nube','nube') : Distintas
 
 Reto 22 Compare('Bitín','Firewall'): 'Bitín' va primero
 
-Reto 23 CompareTo('Nube','Cielo'): 0 => Son iguales
+Reto 23 CompareTo('Nube','Cielo'): 1: ‘Nube’ viene después de ‘Cielo’
 
 Reto 24 IsNullOrEmpty(""): Es nula o vacía
 
 Reto 25 IsNullOrWhiteSpace("    "): Solo espacios
 
-Reto 26 ToLower(): en el vasto universo vivía bitín, un pequeño explorador digital.
-su misión era descubrir ciudades luminosas ocultas entre la nubes de datos.
-en su camino encontró un gran firewall que parecía imposible de cruzar.
-pero bitín explorador sabía que el mundo binario estaba lleno de secretos.
-al final, todo serían ceros y unos.
+Reto 26 ToLower(): en el vasto universo del mundo binario, donde solo existían ceros y unos, se levantaban ciudades luminosas construidas con bits que danzaban en perfecta armonía. cada calle estaba formada por largas cadenas de código que brillaban como estrellas digitales, y los habitantes, pequeños algoritmos curiosos, recorrían los circuitos buscando dar sentido a sus vidas. allí, todo lo que existía estaba gobernado por el flujo de información: la corriente eléctrica que encendía el mundo y el silencio que lo apagaba. en una de esas ciudades habitaba bitín, un joven programa que soñaba con explorar más allá de los límites de su servidor. 
 
-Reto 27 ToUpper(): EN EL VASTO UNIVERSO VIVÍA BITÍN, UN PEQUEÑO EXPLORADOR DIGITAL.
-SU MISIÓN ERA DESCUBRIR CIUDADES LUMINOSAS OCULTAS ENTRE LA NUBES DE DATOS.
-EN SU CAMINO ENCONTRÓ UN GRAN FIREWALL QUE PARECÍA IMPOSIBLE DE CRUZAR.
-PERO BITÍN EXPLORADOR SABÍA QUE EL MUNDO BINARIO ESTABA LLENO DE SECRETOS.
-AL FINAL, TODO SERÍAN CEROS Y UNOS.
+mientras otros se conformaban con repetir operaciones matemáticas, él deseaba descubrir qué había al otro lado del gran firewall, esa muralla invisible que protegía al mundo binario de amenazas externas. su curiosidad lo llevó a descifrar viejos fragmentos de código olvidados, que hablaban de un lugar mítico llamado “la nube”, donde los ceros y unos podían transformarse en ideas infinitas. un día, armado de valor y con un puñado de claves encriptadas que había encontrado, bitín atravesó la barrera.
+
+ del otro lado descubrió paisajes jamás imaginados: ríos de datos en constante movimiento, mares de información sin límites y criaturas hechas de algoritmos que nunca había visto. comprendió entonces que el mundo binario era solo una pequeña parte de algo mucho más grande: un universo digital sin fin, en el que su misión sería guiar a otros programas hacia la libertad de explorar y evolucionar más allá de los confines de los ceros y unos.
+
+Reto 27 ToUpper(): EN EL VASTO UNIVERSO DEL MUNDO BINARIO, DONDE SOLO EXISTÍAN CEROS Y UNOS, SE LEVANTABAN CIUDADES LUMINOSAS CONSTRUIDAS CON BITS QUE DANZABAN EN PERFECTA ARMONÍA. CADA CALLE ESTABA FORMADA POR LARGAS CADENAS DE CÓDIGO QUE BRILLABAN COMO ESTRELLAS DIGITALES, Y LOS HABITANTES, PEQUEÑOS ALGORITMOS CURIOSOS, RECORRÍAN LOS CIRCUITOS BUSCANDO DAR SENTIDO A SUS VIDAS. ALLÍ, TODO LO QUE EXISTÍA ESTABA GOBERNADO POR EL FLUJO DE INFORMACIÓN: LA CORRIENTE ELÉCTRICA QUE ENCENDÍA EL MUNDO Y EL SILENCIO QUE LO APAGABA. EN UNA DE ESAS CIUDADES HABITABA BITÍN, UN JOVEN PROGRAMA QUE SOÑABA CON EXPLORAR MÁS ALLÁ DE LOS LÍMITES DE SU SERVIDOR. 
+
+MIENTRAS OTROS SE CONFORMABAN CON REPETIR OPERACIONES MATEMÁTICAS, ÉL DESEABA DESCUBRIR QUÉ HABÍA AL OTRO LADO DEL GRAN FIREWALL, ESA MURALLA INVISIBLE QUE PROTEGÍA AL MUNDO BINARIO DE AMENAZAS EXTERNAS. SU CURIOSIDAD LO LLEVÓ A DESCIFRAR VIEJOS FRAGMENTOS DE CÓDIGO OLVIDADOS, QUE HABLABAN DE UN LUGAR MÍTICO LLAMADO “LA NUBE”, DONDE LOS CEROS Y UNOS PODÍAN TRANSFORMARSE EN IDEAS INFINITAS. UN DÍA, ARMADO DE VALOR Y CON UN PUÑADO DE CLAVES ENCRIPTADAS QUE HABÍA ENCONTRADO, BITÍN ATRAVESÓ LA BARRERA.
+
+ DEL OTRO LADO DESCUBRIÓ PAISAJES JAMÁS IMAGINADOS: RÍOS DE DATOS EN CONSTANTE MOVIMIENTO, MARES DE INFORMACIÓN SIN LÍMITES Y CRIATURAS HECHAS DE ALGORITMOS QUE NUNCA HABÍA VISTO. COMPRENDIÓ ENTONCES QUE EL MUNDO BINARIO ERA SOLO UNA PEQUEÑA PARTE DE ALGO MUCHO MÁS GRANDE: UN UNIVERSO DIGITAL SIN FIN, EN EL QUE SU MISIÓN SERÍA GUIAR A OTROS PROGRAMAS HACIA LA LIBERTAD DE EXPLORAR Y EVOLUCIONAR MÁS ALLÁ DE LOS CONFINES DE LOS CEROS Y UNOS.
 
 Reto 28 ToLowerInvariant('NUBE'): nube
 
