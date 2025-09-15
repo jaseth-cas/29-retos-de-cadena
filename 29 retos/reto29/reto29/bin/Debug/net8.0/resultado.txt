@@ -1,0 +1,82 @@
+reto 1 string.Concat(): Bitín Explorador
+
+Reto 2 string.Join(): En el vasto universo vivía Bitín, un pequeño Explorador digital | 
+Su misión era descubrir ciudades luminosas ocultas entre la nubes de datos | 
+En su camino encontró un gran firewall que parecía imposible de cruzar | 
+Pero Bitín explorador sabía que el mundo binario estaba lleno de secretos | 
+Al final, todo serían ceros y unos
+
+reto 3 String.format el cuento tiene 327 caracteres y 53 palabras
+
+Reto 4 Interpolación: El protagonista es Bitín y busca una meta misteriosa
+
+Reto 5 Convert.ToString(): 327
+
+Reto 6 IndexOf('mundo'): 251
+
+Reto 7 LastIndexOf('ceros'): 314
+
+Reto 8 Contains('Nube'): No
+
+Reto 9 StartsWith('En el vasto universo'): Sí
+
+Reto 10 EndsWith('ceros y unos.'): Sí
+
+Reto 11 Substring('ciudades luminosas'): ciudades luminosas
+
+Reto 12 Remove(0, 15): verso vivía Bitín, un pequeño Explorador digital.
+Su misión era descubrir ciudades luminosas ocultas entre la nubes de datos.
+En su camino encontró un gran firewall que parecía imposible de cruzar.
+Pero Bitín explorador sabía que el mundo binario estaba lleno de secretos.
+Al final, todo serían ceros y unos.
+
+Reto 13 Replace('Bitín'->'ProgramaX'): En el vasto universo vivía ProgramaX, un pequeño Explorador digital.
+Su misión era descubrir ciudades luminosas ocultas entre la nubes de datos.
+En su camino encontró un gran firewall que parecía imposible de cruzar.
+Pero ProgramaX explorador sabía que el mundo binario estaba lleno de secretos.
+Al final, todo serían ceros y unos.
+
+Reto 14 Insert() después de 'firewall': En el vasto universo vivía Bitín, un pequeño Explorador digital.
+Su misión era descubrir ciudades luminosas ocultas entre la nubes de datos.
+En su camino encontró un gran firewall (IMPORTANTE) que parecía imposible de cruzar.
+Pero Bitín explorador sabía que el mundo binario estaba lleno de secretos.
+Al final, todo serían ceros y unos.
+
+Reto 15 PadLeft(10, '+'): +++++Bitín
+
+Reto 16 PadRight(12, '-'): Nube--------
+
+Reto 17 Trim(): 'firewall'
+
+Reto 18 TrimStart(): 'Mundo binario'
+
+Reto 19 TrimEnd(): 'Bitín explorador'
+
+Reto 20 Split() (primeras 10 palabras): En, el, vasto, universo, vivía, Bitín,, un, pequeño, Explorador, digital.
+
+Reto 21 Equals('Nube','nube') : Distintas
+
+Reto 22 Compare('Bitín','Firewall'): 'Bitín' va primero
+
+Reto 23 CompareTo('Nube','Cielo'): 0 => Son iguales
+
+Reto 24 IsNullOrEmpty(""): Es nula o vacía
+
+Reto 25 IsNullOrWhiteSpace("    "): Solo espacios
+
+Reto 26 ToLower(): en el vasto universo vivía bitín, un pequeño explorador digital.
+su misión era descubrir ciudades luminosas ocultas entre la nubes de datos.
+en su camino encontró un gran firewall que parecía imposible de cruzar.
+pero bitín explorador sabía que el mundo binario estaba lleno de secretos.
+al final, todo serían ceros y unos.
+
+Reto 27 ToUpper(): EN EL VASTO UNIVERSO VIVÍA BITÍN, UN PEQUEÑO EXPLORADOR DIGITAL.
+SU MISIÓN ERA DESCUBRIR CIUDADES LUMINOSAS OCULTAS ENTRE LA NUBES DE DATOS.
+EN SU CAMINO ENCONTRÓ UN GRAN FIREWALL QUE PARECÍA IMPOSIBLE DE CRUZAR.
+PERO BITÍN EXPLORADOR SABÍA QUE EL MUNDO BINARIO ESTABA LLENO DE SECRETOS.
+AL FINAL, TODO SERÍAN CEROS Y UNOS.
+
+Reto 28 ToLowerInvariant('NUBE'): nube
+
+Reto 29 ToUpperInvariant('bitín'): BITÍN
+

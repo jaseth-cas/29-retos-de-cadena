@@ -1,0 +1,14 @@
+C:\Users\Jaseth\OneDrive - Universidad Tecnológica de Panamá\Software IV\Practica\29 retos\reto29\reto29\bin\Debug\net8.0\reto29.exe
+C:\Users\Jaseth\OneDrive - Universidad Tecnológica de Panamá\Software IV\Practica\29 retos\reto29\reto29\bin\Debug\net8.0\reto29.deps.json
+C:\Users\Jaseth\OneDrive - Universidad Tecnológica de Panamá\Software IV\Practica\29 retos\reto29\reto29\bin\Debug\net8.0\reto29.runtimeconfig.json
+C:\Users\Jaseth\OneDrive - Universidad Tecnológica de Panamá\Software IV\Practica\29 retos\reto29\reto29\bin\Debug\net8.0\reto29.dll
+C:\Users\Jaseth\OneDrive - Universidad Tecnológica de Panamá\Software IV\Practica\29 retos\reto29\reto29\bin\Debug\net8.0\reto29.pdb
+C:\Users\Jaseth\OneDrive - Universidad Tecnológica de Panamá\Software IV\Practica\29 retos\reto29\reto29\obj\Debug\net8.0\reto29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jaseth\OneDrive - Universidad Tecnológica de Panamá\Software IV\Practica\29 retos\reto29\reto29\obj\Debug\net8.0\reto29.AssemblyInfoInputs.cache
+C:\Users\Jaseth\OneDrive - Universidad Tecnológica de Panamá\Software IV\Practica\29 retos\reto29\reto29\obj\Debug\net8.0\reto29.AssemblyInfo.cs
+C:\Users\Jaseth\OneDrive - Universidad Tecnológica de Panamá\Software IV\Practica\29 retos\reto29\reto29\obj\Debug\net8.0\reto29.csproj.CoreCompileInputs.cache
+C:\Users\Jaseth\OneDrive - Universidad Tecnológica de Panamá\Software IV\Practica\29 retos\reto29\reto29\obj\Debug\net8.0\reto29.dll
+C:\Users\Jaseth\OneDrive - Universidad Tecnológica de Panamá\Software IV\Practica\29 retos\reto29\reto29\obj\Debug\net8.0\refint\reto29.dll
+C:\Users\Jaseth\OneDrive - Universidad Tecnológica de Panamá\Software IV\Practica\29 retos\reto29\reto29\obj\Debug\net8.0\reto29.pdb
+C:\Users\Jaseth\OneDrive - Universidad Tecnológica de Panamá\Software IV\Practica\29 retos\reto29\reto29\obj\Debug\net8.0\reto29.genruntimeconfig.cache
+C:\Users\Jaseth\OneDrive - Universidad Tecnológica de Panamá\Software IV\Practica\29 retos\reto29\reto29\obj\Debug\net8.0\ref\reto29.dll
